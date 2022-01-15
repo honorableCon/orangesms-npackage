@@ -1,0 +1,16 @@
+{
+  "name": "orange-sms-client",
+  "version": "1.0.3",
+  "description": "This package aims to let you quickly send SMS from JavaScript using the Orange SMS API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "Orange",
+    "API"
+  ],
+  "author": "Honorable Con",
+  "license": "ISC"
+}
